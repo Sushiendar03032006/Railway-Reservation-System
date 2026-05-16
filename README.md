@@ -1,9 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
-
+# Reg No: 212223040217
+# Name: Sushiendar M
+# Date: 11/5/2026
 
 # AIM:
 To develop the Railway Reservation System using Star UML.
@@ -39,6 +38,9 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1100" height="790" alt="Screenshot 2026-05-14 101720" src="https://github.com/user-attachments/assets/76e82e80-aea7-47ac-94a2-93741d04a81c" />
+
+
 
 
 
@@ -59,6 +61,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1054" height="693" alt="Screenshot 2026-05-14 101729" src="https://github.com/user-attachments/assets/dc7f7b7c-402b-47eb-99ed-55b8e4478dba" />
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +70,9 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+
+<img width="1287" height="908" alt="Screenshot 2026-05-14 101710" src="https://github.com/user-attachments/assets/a987d5d2-972e-4d22-a4ba-0ddb4bf3b9df" />
+
 
 
 
@@ -79,7 +86,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
-
+<img width="702" height="776" alt="Screenshot 2026-05-14 101654" src="https://github.com/user-attachments/assets/f24d28de-f4e5-49c5-826d-6f9d93a287d3" />
 
 
 
@@ -97,6 +104,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="702" height="776" alt="Screenshot 2026-05-14 101654" src="https://github.com/user-attachments/assets/21f5c4e6-0bdd-4caf-a8b6-de1330629ff5" />
 
 
 
